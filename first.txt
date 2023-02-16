@@ -1,1 +1,6 @@
 Ideas
+
+* Make a twitter clone app
+* Make a todo list app
+* Make an app that tracks ingredients and recipes
+
